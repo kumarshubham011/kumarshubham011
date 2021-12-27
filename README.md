@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kumarshubham011
+- 👋 Hi, I’m Shubham kumar
 - 👀 I’m interested in Data analysis/Data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Machine learning
